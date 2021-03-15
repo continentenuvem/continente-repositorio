@@ -1,1 +1,1 @@
-# continente-repositorio
+# Este é apenas um repositorio de builds
